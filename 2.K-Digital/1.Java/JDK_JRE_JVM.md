@@ -1,6 +1,4 @@
-![](C:\Users\ShinDongWha\Desktop\git\mulcam\2.K-Digital\1.Java\jvm_jre_jdk.png)
-
-
+![](markdown-img/jvm_jre_jdk.png)
 
 # JDK⊃JRE+@⊃JVM+@
 
